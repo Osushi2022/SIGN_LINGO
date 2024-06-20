@@ -11,4 +11,4 @@ Python 3.11.7
 [https://github.com/dxli94/WLASL](https://github.com/dxli94/WLASL)
 
 # How to run a script
-`py PBL24.py`
+`py sign_lingo.py`
